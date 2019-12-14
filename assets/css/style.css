@@ -170,7 +170,7 @@ a:hover {
 }
 
 .bg-dark {
-  background: #f21717;
+  background: #242930;
 }
 
 .parallax-section {
@@ -210,7 +210,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #f21717;
 }
 
 .btn-main {
