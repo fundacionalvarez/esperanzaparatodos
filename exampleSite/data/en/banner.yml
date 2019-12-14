@@ -6,6 +6,6 @@ banner:
   title: "¡Esperanza Para Todos!"
   content: Fundación Tony Álvarez González
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
