@@ -1184,7 +1184,7 @@ a:hover {
 
 .owl-controls .owl-page span {
   background-color: transparent;
-  border: 2px solid #f21717;
+  border: 2px solid #fff;
   border-radius: 50px;
   display: block;
   height: 13px;
@@ -1196,7 +1196,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #57cbcc;
+  background-color: #f21717;
   border: 2px solid transparent;
 }
 
