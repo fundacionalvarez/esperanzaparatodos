@@ -486,7 +486,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #f21717;
+  color: #57cbcc;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -573,7 +573,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #f21717;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
