@@ -1351,7 +1351,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #f21717;
+  color: #57cbcc;
 }
 
 .next-prev .prev-post i {
@@ -1368,7 +1368,7 @@ a:hover {
 }
 
 .social-profile ul li a {
-  color: #4e595f;
+  color: #f21717;
   display: block;
   font-size: 16px;
 }
