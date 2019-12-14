@@ -697,7 +697,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #fff;
+  color: #f21717;
 }
 
 .call-to-action-2 .btn-main {
@@ -722,7 +722,7 @@ a:hover {
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
-  color: #f21717;
+  color: #ddd;
   border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
