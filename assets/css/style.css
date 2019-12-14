@@ -863,7 +863,7 @@ a:hover {
 }
 
 .pricing li:nth-child(2n) {
-  background-color: #f21717;
+  background-color: #292F36;
 }
 
 .pricing li .btn {
@@ -887,7 +887,7 @@ a:hover {
   font-size: 16px;
   padding: 6px 20px;
   font-weight: 700;
-  color: #737f8a;
+  color: #f21717;
   transition: .3s all;
 }
 
