@@ -1551,7 +1551,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #f21717;
+  background: #57cbcc;
 }
 
 .social-icon ul li a:hover i {
@@ -1560,7 +1560,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #f21717;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
