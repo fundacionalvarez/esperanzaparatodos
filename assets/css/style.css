@@ -1571,7 +1571,7 @@ input#e-mail,
 
 .copyright {
   padding: 20px 0;
-  color: #f21717;
+  color: #fff;
 }
 
 .copyright img {
@@ -1583,7 +1583,7 @@ input#e-mail,
 }
 
 #scrollUp {
-  border: 1px solid #4e595f;
+  border: 1px solid #f21717;
   bottom: 15px;
   color: #fff;
   display: none;
