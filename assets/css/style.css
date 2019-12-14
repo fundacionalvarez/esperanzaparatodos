@@ -1368,7 +1368,7 @@ a:hover {
 }
 
 .social-profile ul li a {
-  color: #f21717;
+  color: #4e595f;
   display: block;
   font-size: 16px;
 }
@@ -1542,7 +1542,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #f21717;
   border: 1px solid transparent;
   display: block;
   height: 70px;
