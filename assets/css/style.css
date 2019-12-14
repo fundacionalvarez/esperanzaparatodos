@@ -1237,12 +1237,12 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #f21717;
   border: 1px solid #4e595f;
 }
 
 .post-block {
-  background-color: #f21717;
+  background-color: #292F36;
   margin-bottom: 10px;
 }
 
