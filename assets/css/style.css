@@ -417,13 +417,13 @@ a:hover {
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #f21717;
+  color: #737f8a;
 }
 
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #f21717;
 }
 
 .navigation .navbar-toggler {
