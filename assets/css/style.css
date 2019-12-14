@@ -2286,13 +2286,13 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #f21717;
+  background: #57cbcc;
   color: #fff;
   border-color: #57cbcc;
 }
 
 #select-language {
-  background: #353b43;
+  background: #f21717;
   color: #ffffff;
   border: 0;
 }
