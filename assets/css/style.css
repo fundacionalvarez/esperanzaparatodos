@@ -42,7 +42,7 @@ p {
 }
 
 pre {
-  color: #f21717;
+  color: #afbac4;
 }
 
 /*=================================================================
@@ -51,7 +51,7 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #f21717;
 }
 
 ::selection {
