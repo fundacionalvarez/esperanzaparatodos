@@ -306,11 +306,11 @@ a:hover {
 }
 
 .title p {
-  color: #f21717;
+  color: #666;
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color: #f21717;
 }
 
 .bg-gray {
