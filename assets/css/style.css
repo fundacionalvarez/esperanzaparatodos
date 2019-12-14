@@ -689,7 +689,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #fff;
+  color: #f21717;
 }
 
 .call-to-action-2 h2 {
@@ -697,7 +697,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #f21717;
+  color: #fff;
 }
 
 .call-to-action-2 .btn-main {
