@@ -1237,7 +1237,7 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #f21717;
   border: 1px solid #4e595f;
 }
 
@@ -1258,7 +1258,7 @@ a:hover {
 }
 
 .note .media-wrapper {
-  border-bottom: 1px solid #f21717;
+  border-bottom: 1px solid #4e595f;
 }
 
 .note .excerpt h3 {
