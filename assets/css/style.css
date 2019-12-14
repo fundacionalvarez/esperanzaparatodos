@@ -446,7 +446,7 @@ a:hover {
 }
 
 .navbar-toggler:focus {
-  outline-color: #f21717;
+  outline-color: #57cbcc;
 }
 
 .bg-1 {
@@ -486,7 +486,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #f21717;
   display: inline-block;
   height: 60px;
   width: 60px;
