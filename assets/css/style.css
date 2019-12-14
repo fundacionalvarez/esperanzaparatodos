@@ -1649,7 +1649,7 @@ input#e-mail,
 }
 
 .post-item .entry {
-  border: 1px solid #f21717;
+  border: 1px solid #4e595f;
   margin-bottom: 30px;
 }
 
@@ -1697,7 +1697,7 @@ input#e-mail,
 }
 
 .post-meta {
-  background-color: #3d444a;
+  background-color: #f21717;
   border-top: 1px solid #4e595f;
   font-size: 13px;
   margin: 20px 0 0;
