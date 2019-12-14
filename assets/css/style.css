@@ -1115,7 +1115,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #f21717;
+  color: #57cbcc;
   border: 1px solid transparent;
 }
 
@@ -1150,7 +1150,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #f21717;
   font-size: 18px;
 }
 
