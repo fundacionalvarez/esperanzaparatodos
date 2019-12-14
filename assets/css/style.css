@@ -1583,7 +1583,7 @@ input#e-mail,
 }
 
 #scrollUp {
-  border: 1px solid #f21717;
+  border: 1px solid #4e595f;
   bottom: 15px;
   color: #fff;
   display: none;
@@ -1635,7 +1635,7 @@ input#e-mail,
 .blog-icon {
   border: 1px solid #6CB670;
   border-radius: 50%;
-  color: #6CB670;
+  color: #f21717;
   display: inline-block;
   padding: 16px 20px;
 }
