@@ -1114,8 +1114,8 @@ a:hover {
 }
 
 .member-photo .mask ul li a:hover {
-  background-color: #f21717;
-  color: #57cbcc;
+  background-color: #fff;
+  color: #f21717;
   border: 1px solid transparent;
 }
 
