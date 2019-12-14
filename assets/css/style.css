@@ -2275,7 +2275,7 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #f21717;
+  background: #57cbcc;
   border-color: #57cbcc;
   color: #fff
 }
@@ -2286,7 +2286,7 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: #f21717;
   color: #fff;
   border-color: #57cbcc;
 }
