@@ -2293,12 +2293,12 @@ figcaption {
 
 #select-language {
   background: #353b43;
-  color: #f21717;
+  color: #ffffff;
   border: 0;
 }
 
 .simple-icon {
-  color: #6c7b8a;
+  color: #f21717;
   padding: 10px;
   display: block;
 }
