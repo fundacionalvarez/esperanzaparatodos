@@ -670,12 +670,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #f21717;
+  color: #444;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #f21717;
 }
 
 .call-to-action .btn-main {
