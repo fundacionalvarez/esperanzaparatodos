@@ -214,7 +214,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #f21717;
+  background: #57cbcc;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #f21717;
   color: #fff;
 }
 
