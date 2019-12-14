@@ -697,7 +697,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #f21717;
+  color: #fff;
 }
 
 .call-to-action-2 .btn-main {
@@ -734,7 +734,7 @@ a:hover {
 .form-meghna input:hover,
 .form-meghna textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #f21717;
 }
 
 .form-meghna ::placeholder {
