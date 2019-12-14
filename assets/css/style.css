@@ -1043,7 +1043,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: #f21717;
   margin-bottom: 10px;
 }
 
@@ -2298,7 +2298,7 @@ figcaption {
 }
 
 .simple-icon {
-  color: #f21717;
+  color: #6c7b8a;
   padding: 10px;
   display: block;
 }
