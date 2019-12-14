@@ -224,7 +224,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #f21717;
+  background: #2c9091;
   color: #fff;
 }
 
@@ -283,7 +283,7 @@ a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #292F36;
+  background-color: #f21717;
   z-index: 9999;
   display: flex;
   align-items: center;
