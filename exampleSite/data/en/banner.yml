@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_Image: images/slider/child.jpg
-  icon: ''
+  icon: images/logo.png
   title: "¡Esperanza Para Todos!"
   content: Fundación Tony Álvarez González - Laboratorio Sarget - AGORA
   button:
