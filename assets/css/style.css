@@ -1542,7 +1542,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #f21717;
+  background-color: #26292e;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1551,7 +1551,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #f21717;
 }
 
 .social-icon ul li a:hover i {
