@@ -892,7 +892,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #f21717;
+  border-color: #57cbcc;
 }
 
 .portfolio-block {
@@ -947,7 +947,7 @@ a:hover {
 }
 
 .portfolio-block .caption h4 a {
-  color: #555;
+  color: #f21717;
 }
 
 .portfolio-block .caption .search-icon {
