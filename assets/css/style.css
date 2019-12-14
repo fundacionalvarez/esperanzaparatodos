@@ -486,7 +486,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #f21717;
+  color: #57cbcc;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -1082,7 +1082,7 @@ a:hover {
 }
 
 .member-photo .mask {
-  background-color: rgba(87, 203, 204, 0.7);
+  background-color: rgba(200, 203, 204, 0.7);
   position: absolute;
   text-align: center;
   height: 100%;
