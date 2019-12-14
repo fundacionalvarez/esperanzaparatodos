@@ -412,12 +412,12 @@ a:hover {
 }
 
 .navigation .navigation-menu li a.active {
-  color: #f21717;
+  color: #57cbcc;
 }
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #737f8a;
+  color: #f21717;
 }
 
 .navigation .navigation-menu li a:hover,
