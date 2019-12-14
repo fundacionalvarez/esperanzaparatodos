@@ -1560,7 +1560,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #f21717;
+  color: #55606a;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
@@ -1571,7 +1571,7 @@ input#e-mail,
 
 .copyright {
   padding: 20px 0;
-  color: #fff;
+  color: #f21717;
 }
 
 .copyright img {
