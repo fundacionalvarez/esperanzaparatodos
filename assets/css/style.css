@@ -831,7 +831,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #f21717;
+  color: #57cbcc;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -842,7 +842,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: #f21717;
   font-size: 30px;
 }
 
