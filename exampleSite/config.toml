@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Esperanza Para Todos"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
