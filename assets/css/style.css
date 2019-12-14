@@ -210,11 +210,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #f21717;
+  color: #57cbcc;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #f21717;
   color: #fff;
   display: inline-block;
   font-size: 14px;
