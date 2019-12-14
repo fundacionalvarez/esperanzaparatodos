@@ -1211,7 +1211,7 @@ a:hover {
 
 #our-clietns .owl-next,
 #our-clietns .owl-prev {
-  border: 1px solid #f21717;
+  border: 1px solid #ddd;
   border-radius: 50px;
   display: inline-block;
   margin: 45px 0 0;
@@ -1237,7 +1237,7 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #f21717;
   border: 1px solid #4e595f;
 }
 
