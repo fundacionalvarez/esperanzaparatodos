@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_Image: images/slider/child.jpg
   icon: ''
-  title: Fundación Tony Álvarez González
-  content: "¡Esperanza Para Todos!"
+  title: "¡Esperanza Para Todos!"
+  content: Fundación Tony Álvarez González
   button:
     enable: true
     label: Explore Us
