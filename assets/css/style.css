@@ -1196,7 +1196,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #f21717;
+  background-color: #57cbcc;
   border: 2px solid transparent;
 }
 
@@ -1211,7 +1211,7 @@ a:hover {
 
 #our-clietns .owl-next,
 #our-clietns .owl-prev {
-  border: 1px solid #ddd;
+  border: 1px solid #f21717;
   border-radius: 50px;
   display: inline-block;
   margin: 45px 0 0;
