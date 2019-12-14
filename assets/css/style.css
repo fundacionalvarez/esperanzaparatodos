@@ -842,7 +842,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #f21717;
+  color: #57cbcc;
   font-size: 30px;
 }
 
@@ -863,7 +863,7 @@ a:hover {
 }
 
 .pricing li:nth-child(2n) {
-  background-color: #292F36;
+  background-color: #f21717;
 }
 
 .pricing li .btn {
