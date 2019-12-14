@@ -1043,7 +1043,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #f21717;
+  background-color: #292F36;
   margin-bottom: 10px;
 }
 
@@ -1115,7 +1115,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #57cbcc;
+  color: #f21717;
   border: 1px solid transparent;
 }
 
