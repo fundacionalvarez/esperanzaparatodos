@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background-color: #f8f8f8;
+  background-color: #c314e9;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -318,7 +318,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #fff6e6;
+  background: #fbffb8;
 }
 
 .overly {
