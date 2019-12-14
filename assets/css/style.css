@@ -423,7 +423,7 @@ a:hover {
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #f21717;
+  color: #57cbcc;
 }
 
 .navigation .navbar-toggler {
@@ -446,7 +446,7 @@ a:hover {
 }
 
 .navbar-toggler:focus {
-  outline-color: #57cbcc;
+  outline-color: #f21717;
 }
 
 .bg-1 {
