@@ -984,7 +984,7 @@ a:hover {
   Services section 2
 ==================================================================*/
 .service-2 .service-item {
-  border: 1px solid #f21717;
+  border: 1px solid #eee;
   margin-bottom: 30px;
   padding: 50px 20px;
   transition: all 0.3s ease 0s;
@@ -996,7 +996,7 @@ a:hover {
 }
 
 .service-2 .service-item:hover i {
-  background: #fff;
+  background: #f21717;
   color: #57cbcc;
 }
 
