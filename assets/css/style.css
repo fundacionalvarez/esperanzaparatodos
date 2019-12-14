@@ -85,7 +85,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #f21717;
+  color: #6CB670;
 }
 
 .kill-margin-bottom {
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .btn-transparent {
-  border: 1px solid #4e595f;
+  border: 1px solid #f21717;
 }
 
 .btn-transparent:hover,
