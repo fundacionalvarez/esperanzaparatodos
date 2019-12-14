@@ -283,7 +283,7 @@ a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #f21717;
+  background-color: #292F36;
   z-index: 9999;
   display: flex;
   align-items: center;
@@ -302,7 +302,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #f21717;
 }
 
 .title p {
