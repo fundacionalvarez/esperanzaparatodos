@@ -402,7 +402,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #f21717;
+  background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
 }
@@ -412,7 +412,7 @@ a:hover {
 }
 
 .navigation .navigation-menu li a.active {
-  color: #57cbcc;
+  color: #f21717;
 }
 
 .navigation .navigation-menu li a {
