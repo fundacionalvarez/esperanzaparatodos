@@ -50,7 +50,7 @@ pre {
 ==================================================================*/
 ::-moz-selection {
   /* Code for Firefox */
-  color: #ff0000;
+  color: #fff;
   background: #57cbcc;
 }
 
@@ -68,7 +68,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: #ff0000;
   transition: all .3s ease-in 0s;
 }
 
