@@ -297,8 +297,8 @@ a:hover {
 .title h2 {
   text-transform: capitalize;
   font-weight: 700;
-  font-size: 80px;
-  color: #ff0000;
+  font-size: 38px;
+  color: #fff;
 }
 
 .title h2 span {
@@ -310,7 +310,7 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color: #ff0000;
 }
 
 .bg-gray {
