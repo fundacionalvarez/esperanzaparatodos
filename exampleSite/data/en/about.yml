@@ -1,10 +1,9 @@
----
+############################# About ###################################
 about:
-<<<<<<< HEAD
   enable : true
   title : About Us
   about_Item :
-  - icon : sprout_1557626 # themify icon pack : https://www.flaticon.com/free-icon
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
@@ -15,20 +14,3 @@ about:
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-=======
-  enable: true
-  title: About Us
-  about_Item:
-  - icon: ti-heart
-    title: Fundación Tony Álvarez González
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-cup
-    title: AGORA
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: Laboratorio Sarget
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
->>>>>>> e7465aa46dbbeb230fe2200c745b0ba76b368058
