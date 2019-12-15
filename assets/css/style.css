@@ -109,7 +109,7 @@ a:hover {
 }
 
 .btn:focus {
-  color: #ff0000;
+  color: #ddd;
 }
 
 .btn-transparent {
@@ -124,7 +124,7 @@ a:hover {
 }
 
 .border-meghna {
-  border-top: 2px solid rgba(236, 239, 241, 0.07);
+  border-top: 2px solid rgba(227, 39, 39, 0.07);
   height: 1px;
   margin: 15px auto 0;
   position: relative;
