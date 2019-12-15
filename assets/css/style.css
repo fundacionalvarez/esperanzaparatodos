@@ -68,7 +68,7 @@ figure {
 }
 
 a {
-  color: #ff0000;
+  color: #fff;
   transition: all .3s ease-in 0s;
 }
 
@@ -85,7 +85,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #ff0000;
 }
 
 .kill-margin-bottom {
