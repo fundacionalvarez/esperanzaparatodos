@@ -310,7 +310,7 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #ff0000;
+  color: #fff;
 }
 
 .bg-gray {
@@ -384,7 +384,7 @@ a:hover {
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
-  color: #fff;
+  color: #ff0000;
   position: relative;
 }
 
