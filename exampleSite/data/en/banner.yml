@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_Image: images/slider/child.jpg
-  icon: ti-heart
+  icon: ''
   title: Esperanza Para Todos
   content: Iniciativa para una mejor calidad de vida.
   button:
