@@ -4,7 +4,7 @@ feature:
   image: images/about/foundation-staff.jpg
   title: Trabajamos para un mundo mejor.
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi..
   feature_Item:
   - icon: ti-world
     title: SEO Optimized
