@@ -1334,7 +1334,7 @@ a:hover {
 .blog-subtitle {
   font-size: 15px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px solid #4e595f;
   margin-bottom: 25px;
   text-transform: uppercase;
 }
@@ -1390,7 +1390,7 @@ a:hover {
 }
 
 .post-author>img {
-  border: 1px solid #F9595F;
+  border: 1px solid #dedede;
   max-width: 120px;
   padding: 5px;
   width: 100%;
