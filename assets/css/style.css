@@ -573,7 +573,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #ffffff;
+  background: #efefef;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
