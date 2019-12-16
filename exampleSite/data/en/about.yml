@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: Quienes Somos
   about_Item:
   - icon: ti-world
     title: Fundación Tony Álavarez González
