@@ -4,7 +4,7 @@ banner:
   bg_Image: images/slider/child.jpg
   icon: ''
   title: Esperanza Para Todos
-  content: Iniciativa para una mejor calidad de vida.
+  content: La iniciativa para una mejor calidad de vida.
   button:
     enable: false
     label: Explore Us
