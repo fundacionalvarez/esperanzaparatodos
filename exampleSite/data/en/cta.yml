@@ -10,6 +10,6 @@ cta:
 
     Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Etiam non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Vitae aliquet nec ullamcorper sit amet. Aliquet eget sit amet tellus. Etiam tempor orci eu lobortis elementum. Imperdiet nulla malesuada pellentesque elit. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Adipiscing bibendum est ultricies integer. Neque viverra justo nec ultrices dui sapien eget mi proin. Eu ultrices vitae auctor eu augue.
   button:
-    enable: true
+    enable: false
     label: Start a project with us
     link: "#contact"
