@@ -3,8 +3,6 @@
   translation: Latest Post
 - id: readMore
   translation: Read more
-- id: viewAllPost
-  translation: View All Post
 - id: share
   translation: Share
 - id: aboutAuthor
