@@ -501,10 +501,10 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 80px;
-  color: #34C9E2;
+  color: #fff;
   text-transform: capitalize;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 150px;
 }
 
 @media (max-width: 480px) {
