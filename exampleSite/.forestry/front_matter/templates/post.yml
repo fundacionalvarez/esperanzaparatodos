@@ -5,6 +5,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: fontcolor
+  type: color
+  label: FontColor
+  config:
+    required: false
+    color_format: Hex
+  description: FontColor
+  default: "#9B9B9B"
 - type: datetime
   name: date
   label: date

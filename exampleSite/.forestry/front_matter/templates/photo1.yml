@@ -1,0 +1,34 @@
+---
+label: Photo1
+hide_body: true
+fields:
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - name: photo1
+    type: file
+    config:
+      maxSize: 250
+    label: Photo1
+    hidden: false
+    default: "/images/logo.png"
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: about_Item
+    label: about_Item
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
