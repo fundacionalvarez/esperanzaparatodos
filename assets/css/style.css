@@ -214,7 +214,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #34C9E2;
+  background: #fff;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #238899;
+  background: #fff;
   color: #fff;
 }
 
@@ -628,7 +628,7 @@ a:hover {
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 1);
+  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
