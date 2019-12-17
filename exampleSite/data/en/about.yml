@@ -3,16 +3,16 @@ about:
   enable: true
   title: Quienes Somos
   about_Item:
-  - icon: ti-world
+  - icon: <img class="special-img-class" src="/images/logo.png" />
     title: Fundación Tony Álavarez González
     content: Organizacion y desarrollo de proyectos internacionels enfocados en la
       educacion y mejora de la calidad de vida en comunidades de bajos recursos.
-  - icon: ti-shine
+  - icon: ''
     title: AGORA
     content: Desarrollo de proyectos de modernizacion agricolas y explotacion responsable
       de recursos naturales. Creando empleo y oportunidades a comunidades de bajos
       recursos.
-  - icon: ti-pulse
+  - icon: ''
     title: Laboratorio Sarget
     content: 'Ivestigacion y desarrollo de medicamientos para luchar enfermedades
       endemicas. Proveer servicios sanitarios en comunidades rurales. '
