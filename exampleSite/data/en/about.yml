@@ -3,7 +3,6 @@ about:
   enable: true
   title: Quienes Somos
   about_Item:
-  image: images/about/about-business-man.jpg
   - icon: ''
     title: Fundación Tony Álavarez González
     content: Organizacion y desarrollo de proyectos internacionels enfocados en la
