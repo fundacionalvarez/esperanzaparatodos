@@ -6,17 +6,17 @@ fields:
   name: about
   label: about
   fields:
+  - name: photo01
+    type: file
+    config:
+      maxSize: 250
+    label: Photo01
   - type: boolean
     name: enable
     label: enable
   - type: text
     name: title
     label: title
-  - name: photo01
-    type: file
-    config:
-      maxSize: 250
-    label: Photo01
   - type: field_group_list
     name: about_Item
     label: about_Item
