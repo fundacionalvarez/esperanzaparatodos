@@ -214,8 +214,8 @@ a:hover {
 }
 
 .btn-main {
-  background: #fff;
-  color: #fff;
+  background: #f8f8f8;
+  color: #f8f8f8;
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -224,8 +224,8 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #fff;
-  color: #fff;
+  background: #f8f8f8;
+  color: #f8f8f8;
 }
 
 .mt-20 {
