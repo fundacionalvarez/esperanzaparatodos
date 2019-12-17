@@ -85,14 +85,5 @@ link = "#"
 icon = "ti-twitter-alt"
 link = "#"
 [[params.social_Icon]]
-icon = "ti-youtube"
-link = "#"
-[[params.social_Icon]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social_Icon]]
-icon = "ti-pinterest"
 link = "#"
