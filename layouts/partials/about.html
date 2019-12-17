@@ -17,8 +17,8 @@
 			{{"<!-- /section title -->" | safeHTML}}
 
 			{{ range .about_Item }}
-			{{"<!-- About item -->" | safeHTML}}
-			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms"><img class="special-img-class" src="/images/about/about-logos.png" class="center" style="width: 100%;" />
+			{{"<!-- About item -->" | safeHTML}}<img class="special-img-class" src="/images/about/about-logos.png" class="center" style="width: 100%;" />
+			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block">
 					<div class="icon-box">
 						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
