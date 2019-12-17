@@ -1,5 +1,5 @@
 ---
-title: Are You Doing the Right Way
+title: 'Are You Doing the Right Way <font color="red">This is some text!</font> '
 date: 2018-09-12T08:51:12.000+00:00
 author: John Doe
 image: images/blog/blog-post-3.jpg
