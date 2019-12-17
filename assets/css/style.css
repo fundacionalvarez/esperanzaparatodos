@@ -11,12 +11,12 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
 
 html {
-  background-color: #ffffff;
+  background-color: #292F36;
   color: #737f8a;
 }
 
 body {
-  background-color: #292F36;
+  background-color: #ffffff;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
