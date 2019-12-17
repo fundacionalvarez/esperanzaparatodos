@@ -68,7 +68,7 @@ figure {
 }
 
 a {
-  color: #ffffff;
+  color: #ff0000;
   transition: all .3s ease-in 0s;
 }
 
@@ -1642,7 +1642,6 @@ input#e-mail,
 
 .blog-title h1 {
   text-transform: uppercase;
-  color: #ff0000;
 }
 
 #blog-page {
