@@ -12,3 +12,6 @@ fields:
   - type: text
     name: translation
     label: translation
+- name: enable
+  type: boolean
+  label: Enable
