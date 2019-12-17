@@ -3,7 +3,7 @@ about:
   enable: true
   title: Quienes Somos
   about_Item:
-  - icon: ''
+  - icon: <img class="special-img-class" src="/images/logo.png" />
     title: Fundación Tony Álavarez González
     content: Organizacion y desarrollo de proyectos internacionels enfocados en la
       educacion y mejora de la calidad de vida en comunidades de bajos recursos.
