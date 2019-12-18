@@ -4,7 +4,7 @@ portfolio:
   title: Our Works
   filter_List:
   - filter_Type: photography
-    filter_Title: photography
+    filter_Title: Photography
   portfolio_Item:
   - types:
     - design
