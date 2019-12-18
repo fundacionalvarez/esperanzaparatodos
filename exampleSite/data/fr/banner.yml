@@ -1,11 +1,10 @@
 ---
 banner:
   enable: true
-  bg_Image: images/slider/hero-area.jpg
+  bg_Image: images/slider/child.jpg
   icon: ''
-  title: Découvrez la nouvelle réalité
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: De l'espoir pour tous
+  content: L'initiative pour une meilleure qualité de vie.
   button:
     enable: true
     label: Español
