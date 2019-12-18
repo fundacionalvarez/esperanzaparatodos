@@ -17,6 +17,12 @@ portfolio:
     title: Tag Design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
   - types:
+    - design
+    image: images/portfolio/portfolio-5.jpg
+    URL: 
+    title: Shopping Bag
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types:
     - development
     image: images/portfolio/portfolio-2.jpg
     URL: 
@@ -61,10 +67,4 @@ portfolio:
     image: images/portfolio/portfolio-9.jpg
     URL: 
     title: Tag Design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-  - types:
-    - design
-    image: images/portfolio/portfolio-5.jpg
-    URL: 
-    title: Shopping Bag
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
