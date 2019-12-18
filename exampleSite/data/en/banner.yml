@@ -6,6 +6,6 @@ banner:
   title: Esperanza Para Todos
   content: La iniciativa para una mejor calidad de vida.
   button:
-    enable: false
-    label: Explore Us
-    link: "#services"
+    enable: true
+    label: Française
+    link: https://esperanza-web-v1.netlify.com/fr/

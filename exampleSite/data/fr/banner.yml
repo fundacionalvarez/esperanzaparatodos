@@ -1,11 +1,11 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_Image : "images/slider/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Découvrez la nouvelle réalité"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_Image: images/slider/child.jpg
+  icon: ''
+  title: De l'espoir pour tous
+  content: L'initiative pour une meilleure qualité de vie.
   button:
-    enable : true
-    label : "Explorez-nous"
-    link : "#services"
+    enable: true
+    label: Español
+    link: https://esperanza-web-v1.netlify.com/en/

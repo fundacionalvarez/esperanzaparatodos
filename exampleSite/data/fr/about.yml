@@ -1,16 +1,18 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_Item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: Qui sommes nous
+  about_Item:
+  - icon: ti-world
+    title: Fondation Tony Álvarez González
+    content: Organisation et développement de projets internationaux axés sur l'éducation
+      et l'amélioration de la qualité de vie dans les communautés à faible revenu.
+  - icon: ti-shine
+    title: AGORA
+    content: Développement de projets de modernisation agricole et exploitation responsable
+      des ressources naturelles. Créer des emplois et des opportunités pour les communautés
+      à faible revenu.
+  - icon: ti-heart
+    title: "  Laboratoire Sarget"
+    content: Recherche et développement de médicaments pour lutter contre les maladies
+      endémiques. Fournir des services de santé dans les communautés rurales.
