@@ -3,12 +3,12 @@ portfolio:
   enable: true
   title: Our Works
   filter_List:
-  - filter_Type: development
-    filter_Title: Development
-  - filter_Type: design
-    filter_Title: Design
   - filter_Type: photography
     filter_Title: Photography
+  - filter_Type: design
+    filter_Title: Design
+  - filter_Type: development
+    filter_Title: Development
   portfolio_Item:
   - types:
     - design
