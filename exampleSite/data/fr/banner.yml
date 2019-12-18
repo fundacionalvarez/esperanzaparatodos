@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Español
-    link: "#services"
+    link: https://esperanza-web-v1.netlify.com/en/
