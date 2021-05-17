@@ -7,5 +7,5 @@ banner:
   content: La iniciativa para una mejor calidad de vida.
   button:
     enable: true
-    label: Française
+    label: TEST
     link: https://esperanza-web-v1.netlify.com/fr/
