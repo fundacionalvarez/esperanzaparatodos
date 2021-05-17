@@ -2,7 +2,7 @@
 feature:
   enable: true
   image: images/about/about-business-man.jpg
-  title: Trabajamos para un mundo mejor 2.
+  title: Nous travaillons pour un monde meilleur.
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
     itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
   feature_Item:
